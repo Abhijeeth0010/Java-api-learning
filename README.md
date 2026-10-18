@@ -68,7 +68,7 @@ Levels 1 to 4 are plain Java programs that call a public API ([JSONPlaceholder](
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/java-api-learning.git
+   git clone https://github.com/Abhijeeth0010//java-api-learning.git
    ```
 2. Import into Eclipse: `File > Import > Maven > Existing Maven Projects`.
 3. Run `ApiBasicsApplication.java` as a **Java Application**.
